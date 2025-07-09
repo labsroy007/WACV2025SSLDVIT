@@ -1,5 +1,7 @@
 ---
-
+Paper: Self-Supervised Anomaly Segmentation via Diffusion Models with Dynamic Transformer UNet
+link: https://ieeexplore.ieee.org/abstract/document/10943516
+cite: K. Kumar, S. Chakraborty, D. Mahapatra, B. Bozorgtabar and S. Roy, "Self-Supervised Anomaly Segmentation via Diffusion Models with Dynamic Transformer UNet," 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), Tucson, AZ, USA, 2025, pp. 7928-7938, doi: 10.1109/WACV61041.2025.00770.
 # Annotsim: Self-Supervised Anomaly Segmentation via Diffusion Models with Dynamic Transformer UNet (WACV 2024) 🚀
 This research paper introduces a novel self-supervised anomaly detection method for image segmentation. It employs a diffusion model utilising a newly developed four-dimensional simplex noise function (Tsimplex) for improved efficiency and sample quality, especially in higher-dimensional and coloured images. The core of the model is a Dynamic Transformer UNet (DTUNet), a modified Vision Transformer architecture designed to handle time and noise image patches as tokens. Extensive experiments across three datasets demonstrate significant performance improvements over existing generative-based anomaly detection methods, particularly in medical imaging. The source code is publicly available.
 
