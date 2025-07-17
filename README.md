@@ -148,12 +148,6 @@ Detection results are saved in:
 outputs/detection-images/
 ```
 
----
-
-## Contributors
-
-- **Komal Kumar**: [GitHub Profile](https://github.com/MAXNORM8650)
-
 The project imported from:
 - [AnoDDPM](https://github.com/Julian-Wyatt/AnoDDPM)
 - [Predictive Convolutional Attentive Block](https://github.com/ristea/sspcab)
